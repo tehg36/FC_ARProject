@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProject\\Git_Project\\FC_ARProject\\AR_Project\\Source\\AR_Project\\AR_Project.Build.cs",
+		"C:\\UnrealProject\\Git_Project\\FC_ARProject\\AR_Project\\Source\\AR_Project.Target.cs",
+		"C:\\UnrealProject\\Git_Project\\FC_ARProject\\AR_Project\\Source\\AR_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
